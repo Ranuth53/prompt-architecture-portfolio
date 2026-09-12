@@ -47,6 +47,13 @@ FALLBACK & NULL HANDLING:
 OUTPUT FORMAT:
 Return raw JSON strictly matching the defined types.
 
+## Project 2: Multi-Step Chain-of-Thought Evaluator
+
+### Business Objective
+Force a multi-step analytical reasoning workflow prior to rendering candidate screening decisions, mitigating cognitive bias and generating audit trails.
+
+### System Promt
+```text
 SYSTEM INSTRUCTIONS: Multi-Step Chain-of-Thought Evaluator
 
 ROLE & PURPOSE:
