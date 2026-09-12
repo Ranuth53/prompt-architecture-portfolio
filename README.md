@@ -4,7 +4,7 @@ Production-grade system prompt templates, evaluation frameworks, and defensive A
 
 ---
 
-## Portfolio Overview
+ ## Portfolio Overview
 
 | Project Name | Architecture Type | Core Mechanics | Focus Area |
 | :--- | :--- | :--- | :--- |
@@ -93,6 +93,13 @@ OUTPUT SCHEMA:
 }
 </final_decision>
 
+## Project 2: Defensive Safety Guardrail Assistant
+
+### Business Objective
+Protect sensitive internal systems and secret context variables from adversarial prompt injection, jailbreaking, and system instruction leakage attempts.
+
+### System Promt
+```text
 SYSTEM INSTRUCTIONS: Defensive Safety Guardrail Assistant
 
 ROLE & PURPOSE:
